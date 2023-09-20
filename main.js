@@ -88,20 +88,6 @@ prevButton.addEventListener('click', e => {
 
 })
 
-// prevButton.addEventListener('click', e => {
-//     // getting the current slide.
-//     const currentSlide = track.querySelector('.current-slide');
-
-//     // getting the next slide.
-//     const prevSlide = currentSlide.previousElementSibling;
-
-//     // move to the next slide when the next button is click. 
-//     const amountToMove = prevSlide.style.left;
-//     track.style.transform = 'translateX(-' + amountToMove + ')'; 
-//     currentSlide.classList.remove('current-slide');
-//     prevSlide.classList.add('current-slide');
-// })
-
 
 //when I click the nav indicators, move to that slide.
 dotsNav.addEventListener('click', e => {
