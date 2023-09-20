@@ -1,5 +1,4 @@
 /* reset style code */
-
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -559,7 +558,7 @@ header {
 }
 
 .specialist-image-third {
-    background-image: url(images/doctor\ 3.jpg);
+    background-image: url(images/doctor\ 3.png);
     background-color: #97e4b6;
 }
 
